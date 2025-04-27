@@ -1,0 +1,25 @@
+pilates_studio_app/
+├── config/
+│   └── config.php
+├── private/
+│   └── functions.php
+├── public/
+│   ├── index.php
+│   ├── login.php
+│   ├── register.php
+│   ├── logout.php
+│   ├── upload.php
+│   ├── browse.php
+│   ├── view.php
+│   ├── dashboard.php
+│   ├── subscribe.php
+│   ├── like.php
+│   └── comment.php
+├── templates/
+│   ├── header.php
+│   └── footer.php
+├── uploads/
+│   ├── videos/ (uploaded videos here)
+│   └── thumbnails/ (uploaded thumbnails here)
+├── setup.sql
+├── README.md
